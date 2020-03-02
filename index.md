@@ -4,11 +4,11 @@ This website will track my progress and share my thoughts whilst I am building m
 
 ### Who am I
 
-![Me](https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/me.jpeg?raw=true =250x)
+![Me](https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/me.jpeg?raw=true){:width="250px"}
 
 ### Build
 
 #### 3D Printing
 
 Whilst waiting for my steel, I decided to test print settings by printing one of the motor mounts (chairs).
-![First Test Print](https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_3979.jpeg?raw=true =250x)
+![First Test Print](https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_3979.jpeg?raw=true){:width="250px"}
