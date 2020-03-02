@@ -19,7 +19,7 @@ Checking the fit of the drill guides against my steel.
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_3989.jpeg?raw=true" width="400"/>
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_3990.jpeg?raw=true" width="400"/>
 
-Printing the actual motor mounts.
+Printing the actual parts.
 
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4022.jpeg?raw=true" width="400"/>
 
