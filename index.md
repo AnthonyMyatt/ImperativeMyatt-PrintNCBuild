@@ -1,5 +1,9 @@
 ## ImperativeMyatt's PrintNC Build Log
 
+[Build Log](/ImperativeMyatt-PrintNCBuild)
+
+[Inspiration](/ImperativeMyatt-PrintNCBuild/inspiration)
+
 This website will track my progress and share my thoughts whilst I am building my [PrintNC](http://threedesign.store/).
 
 ### Who am I
