@@ -12,22 +12,22 @@ This website will track my progress and share my thoughts whilst I am building m
 
 Test print of one of the motor mounts (chairs).
 
-<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_3979.jpeg?raw=true" width="400"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_3979.jpeg?raw=true" width="300"/>
 
 Checking the fit of the drill guides against my steel.
 
-<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_3989.jpeg?raw=true" width="400"/>
-<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_3990.jpeg?raw=true" width="400"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_3989.jpeg?raw=true" width="300"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_3990.jpeg?raw=true" width="300"/>
 
 Printing the actual parts.
 
-<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4022.jpeg?raw=true" width="400"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4022.jpeg?raw=true" width="300"/>
 
 All the parts printed.
 
-<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4093.jpeg?raw=true" width="400"/>
-<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4094.jpeg?raw=true" width="400"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4093.jpeg?raw=true" width="300"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4094.jpeg?raw=true" width="300"/>
 
 Steel cut... I ended up having to re-cut the two 70mm pieces as somehow they ended up as trapozoids.
 
-<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4095.jpeg?raw=true" width="400"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4095.jpeg?raw=true" width="300"/>
