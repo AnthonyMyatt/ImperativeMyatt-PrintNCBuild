@@ -5,6 +5,7 @@ permalink: /inspiration/
 ## ImperativeMyatt's PrintNC Build Log
 
 [Build Log](/ImperativeMyatt-PrintNCBuild)
+
 [Inspiration](/ImperativeMyatt-PrintNCBuild/inspiration)
 
 ### Inspiration
