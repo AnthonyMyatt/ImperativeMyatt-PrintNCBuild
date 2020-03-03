@@ -31,3 +31,4 @@ All the parts printed.
 Steel cut... I ended up having to re-cut the two 70mm pieces as somehow they ended up as trapozoids.
 
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4095.jpeg?raw=true" width="300"/>
+
