@@ -54,3 +54,9 @@ Finally it is no longer upside down... and I printed some end caps to tidy thing
 Attaching the BF12 mounts.
 
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4156.jpeg?raw=true" width="300"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4157.jpeg?raw=true" width="300"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4204.jpeg?raw=true" width="300"/>
+
+My linear motion kit is getting ready to ship.
+
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4315.jpeg?raw=true" width="300"/>
