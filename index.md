@@ -12,9 +12,11 @@ I live in a small country town called Deniliquin (Deni) near the New South Wales
 
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/Screen%20Shot%202020-03-03%20at%2011.23.32%20am.png?raw=true" width="400"/>
 
-### Build
+### Useful Links
 
-#### 3D Printing
+[Cost Breakdown](https://docs.google.com/spreadsheets/d/1t5dgG_ruGNCOVHuwifiWiQoDkZ0YeTX5rG2u0BBQAuw/edit?usp=sharing)
+
+### Build
 
 Test print of one of the motor mounts (chairs).
 
