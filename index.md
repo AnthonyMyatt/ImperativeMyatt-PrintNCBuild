@@ -50,7 +50,7 @@ Okay, now I am actually assembling the basic frame... probably should have done 
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4105.jpeg?raw=true" width="300"/>
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4114.jpeg?raw=true" width="300"/>
 
-@fantommunkey and I built a quick workbench to give my PrintNC somewhere to live, as I add more weight I don't want to have to move it.
+@fantommunky and I built a quick workbench to give my PrintNC somewhere to live, as I add more weight I don't want to have to move it.
 
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4124%202.jpeg?raw=true" width="300"/>
 
