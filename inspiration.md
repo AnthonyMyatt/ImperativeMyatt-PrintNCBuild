@@ -1,3 +1,7 @@
+layout: page
+title: "Inspiration"
+permalink: /inspiration/
+
 ## ImperativeMyatt's PrintNC Build Log
 
 [Build Log](/)
