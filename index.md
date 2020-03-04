@@ -11,7 +11,6 @@ This website will track my progress and share my thoughts whilst I am building m
 My name is Anthony, I live in a small country town called Deniliquin (Deni) near the New South Wales/Victoria border in Australia.
 
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/me.jpeg?raw=true" width="200"/>
-
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/Screen%20Shot%202020-03-03%20at%2011.23.32%20am.png?raw=true" width="400"/>
 
 ### Useful Links
