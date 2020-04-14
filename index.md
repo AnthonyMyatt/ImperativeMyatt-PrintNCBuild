@@ -72,3 +72,18 @@ My linear motion kit is getting ready to ship.
 
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4315.jpeg?raw=true" width="300"/>
 
+Parts came!
+
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4354.jpeg?raw=true" width="300"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4357.jpeg?raw=true" width="300"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4370.jpeg?raw=true" width="300"/>
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4380.jpeg?raw=true" width="300"/>
+
+Faceplate arrived from Hoges. I decided to paint it even though it can't really be seen once fully assembled.
+
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4454.jpeg?raw=true" width="300"/>
+
+More assembly.
+
+<img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4467.jpeg?raw=true" width="300"/>
+<video controls src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4468_Compressed.mov?raw=true"></video>
