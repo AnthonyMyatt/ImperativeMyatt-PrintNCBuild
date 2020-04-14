@@ -86,4 +86,4 @@ Faceplate arrived from Hoges. I decided to paint it even though it can't really 
 More assembly.
 
 <img src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4467.jpeg?raw=true" width="300"/>
-<video controls src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4468_Compressed.mov?raw=true"></video>
+<video width="300" controls src="https://github.com/AnthonyMyatt/ImperativeMyatt-PrintNCBuild/blob/master/photos/IMG_4468_Compressed.mov?raw=true"></video>
